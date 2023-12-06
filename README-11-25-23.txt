@@ -1,0 +1,5 @@
+11/25/23
+Menu Screen and Call Screen are Operational
+
+Pressing the back button on Android, while in the Response Screen, takes you back to the Call Screen,
+letting users cheat. Hopefully I can fix this bug.
